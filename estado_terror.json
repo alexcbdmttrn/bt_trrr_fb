@@ -106,10 +106,12 @@
     "La sombra del Panteón de Tampico",
     "La llorona de la Macroplaza, Monterrey",
     "El fantasma del Edificio Balmoral, Acapulco, Guerrero",
-    "La sombra de los cenotes, Yucatán"
+    "La sombra de los cenotes, Yucatán",
+    "La llorona de la Laguna de Coyuca, Guerrero",
+    "La silueta en el camino a Tepoztlán, Morelos"
   ],
-  "ultimo_tema": "La sombra de los cenotes, Yucatán",
+  "ultimo_tema": "La silueta en el camino a Tepoztlán, Morelos",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-05T16:54:35.915761",
+  "ultima_publicacion_exitosa": "2026-09-05T23:10:55.868287",
   "ultimo_intento_fallido": null
 }
