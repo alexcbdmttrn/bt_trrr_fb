@@ -108,10 +108,12 @@
     "El fantasma del Edificio Balmoral, Acapulco, Guerrero",
     "La sombra de los cenotes, Yucatán",
     "La llorona de la Laguna de Coyuca, Guerrero",
-    "La silueta en el camino a Tepoztlán, Morelos"
+    "La silueta en el camino a Tepoztlán, Morelos",
+    "El fantasma del Teatro Degollado, Guadalajara, Jalisco",
+    "La bruja del mercado de Querétaro"
   ],
-  "ultimo_tema": "La silueta en el camino a Tepoztlán, Morelos",
+  "ultimo_tema": "La bruja del mercado de Querétaro",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-05T23:10:55.868287",
+  "ultima_publicacion_exitosa": "2026-09-06T05:10:10.563318",
   "ultimo_intento_fallido": null
 }
