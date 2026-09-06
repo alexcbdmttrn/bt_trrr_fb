@@ -110,10 +110,12 @@
     "La llorona de la Laguna de Coyuca, Guerrero",
     "La silueta en el camino a Tepoztlán, Morelos",
     "El fantasma del Teatro Degollado, Guadalajara, Jalisco",
-    "La bruja del mercado de Querétaro"
+    "La bruja del mercado de Querétaro",
+    "El aparecido del Panteón de Mezquitán, Jalisco",
+    "El fantasma del Mineral del Monte, Pachuca, Hidalgo"
   ],
-  "ultimo_tema": "La bruja del mercado de Querétaro",
+  "ultimo_tema": "El fantasma del Mineral del Monte, Pachuca, Hidalgo",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-06T05:10:10.563318",
+  "ultima_publicacion_exitosa": "2026-09-06T17:06:23.300451",
   "ultimo_intento_fallido": null
 }
