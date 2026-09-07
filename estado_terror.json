@@ -114,10 +114,12 @@
     "El aparecido del Panteón de Mezquitán, Jalisco",
     "El fantasma del Mineral del Monte, Pachuca, Hidalgo",
     "La casa del espanto de Culiacán, Sinaloa",
-    "La sombra del Templo Mayor, CDMX"
+    "La sombra del Templo Mayor, CDMX",
+    "La sombra del Acueducto de los Dioses en Teotihuacán",
+    "La casa del espanto de Monterrey, Nuevo León"
   ],
-  "ultimo_tema": "La sombra del Templo Mayor, CDMX",
+  "ultimo_tema": "La casa del espanto de Monterrey, Nuevo León",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-06T23:02:21.844385",
+  "ultima_publicacion_exitosa": "2026-09-07T05:17:35.381291",
   "ultimo_intento_fallido": null
 }
