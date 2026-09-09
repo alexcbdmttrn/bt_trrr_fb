@@ -126,10 +126,12 @@
     "El aparecido del río Grijalva, Villahermosa",
     "El charro de la carretera a Torreón, Coahuila",
     "El aparecido del Cerro de la Campana en Veracruz",
-    "La bruja de la Hacienda de Chautla, Puebla"
+    "La bruja de la Hacienda de Chautla, Puebla",
+    "El aparecido del Cerro de la Bufa en Jalisco",
+    "La leyenda de los túneles de Querétaro"
   ],
-  "ultimo_tema": "La bruja de la Hacienda de Chautla, Puebla",
+  "ultimo_tema": "La leyenda de los túneles de Querétaro",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-08T23:35:36.985364",
+  "ultima_publicacion_exitosa": "2026-09-09T05:22:27.177004",
   "ultimo_intento_fallido": null
 }
