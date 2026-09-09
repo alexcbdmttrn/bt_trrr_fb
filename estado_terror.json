@@ -128,10 +128,12 @@
     "El aparecido del Cerro de la Campana en Veracruz",
     "La bruja de la Hacienda de Chautla, Puebla",
     "El aparecido del Cerro de la Bufa en Jalisco",
-    "La leyenda de los túneles de Querétaro"
+    "La leyenda de los túneles de Querétaro",
+    "El aparecido del Cerro de la Cruz en Veracruz",
+    "El aparecido del Tepozteco, Morelos"
   ],
-  "ultimo_tema": "La leyenda de los túneles de Querétaro",
+  "ultimo_tema": "El aparecido del Tepozteco, Morelos",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-09T05:22:27.177004",
+  "ultima_publicacion_exitosa": "2026-09-09T23:29:31.329828",
   "ultimo_intento_fallido": null
 }
