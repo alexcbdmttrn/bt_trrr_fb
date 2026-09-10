@@ -130,10 +130,12 @@
     "El aparecido del Cerro de la Bufa en Jalisco",
     "La leyenda de los túneles de Querétaro",
     "El aparecido del Cerro de la Cruz en Veracruz",
-    "El aparecido del Tepozteco, Morelos"
+    "El aparecido del Tepozteco, Morelos",
+    "El aparecido del Cerro de las Campanas, Querétaro",
+    "El aparecido del cerro del Volcán de Colima"
   ],
-  "ultimo_tema": "El aparecido del Tepozteco, Morelos",
+  "ultimo_tema": "El aparecido del cerro del Volcán de Colima",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-09T23:29:31.329828",
+  "ultima_publicacion_exitosa": "2026-09-10T05:21:39.268771",
   "ultimo_intento_fallido": null
 }
