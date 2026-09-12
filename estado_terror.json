@@ -144,10 +144,12 @@
     "La abducción en el desierto de Sonoyta, Sonora",
     "La casa del espanto de Xalapa, Veracruz",
     "El encuentro cercano en la sierra de Chiapas",
-    "El fantasma del Teatro Juárez, Guanajuato"
+    "El fantasma del Teatro Juárez, Guanajuato",
+    "La leyenda del Cerro de San Pedro, San Luis Potosí",
+    "La bruja del cerro de la Campana, Morelos"
   ],
-  "ultimo_tema": "El fantasma del Teatro Juárez, Guanajuato",
+  "ultimo_tema": "La bruja del cerro de la Campana, Morelos",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-12T05:08:09.855353",
+  "ultima_publicacion_exitosa": "2026-09-12T17:12:56.482561",
   "ultimo_intento_fallido": null
 }
