@@ -142,10 +142,12 @@
     "Las luces del Río Grijalva, Tabasco",
     "El duende del callejón del Miedo en Guanajuato",
     "La abducción en el desierto de Sonoyta, Sonora",
-    "La casa del espanto de Xalapa, Veracruz"
+    "La casa del espanto de Xalapa, Veracruz",
+    "El encuentro cercano en la sierra de Chiapas",
+    "El fantasma del Teatro Juárez, Guanajuato"
   ],
-  "ultimo_tema": "La casa del espanto de Xalapa, Veracruz",
+  "ultimo_tema": "El fantasma del Teatro Juárez, Guanajuato",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-11T23:30:45.185599",
+  "ultima_publicacion_exitosa": "2026-09-12T05:08:09.855353",
   "ultimo_intento_fallido": null
 }
