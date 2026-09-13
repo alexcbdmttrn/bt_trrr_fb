@@ -148,10 +148,12 @@
     "La leyenda del Cerro de San Pedro, San Luis Potosí",
     "La bruja del cerro de la Campana, Morelos",
     "El aparecido del Cerro de la Campana en Morelos",
-    "La mujer de negro del Panteón de Dolores, CDMX"
+    "La mujer de negro del Panteón de Dolores, CDMX",
+    "El fantasma del Parque de la Paz, Villahermosa",
+    "La casa del espanto de Hermosillo, Sonora"
   ],
-  "ultimo_tema": "La mujer de negro del Panteón de Dolores, CDMX",
+  "ultimo_tema": "La casa del espanto de Hermosillo, Sonora",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-12T23:12:37.979906",
+  "ultima_publicacion_exitosa": "2026-09-13T05:27:03.164404",
   "ultimo_intento_fallido": null
 }
