@@ -152,10 +152,12 @@
     "El fantasma del Parque de la Paz, Villahermosa",
     "La casa del espanto de Hermosillo, Sonora",
     "El chaneque del bosque de niebla de Veracruz",
-    "La sombra del cerro de la Estrella, CDMX"
+    "La sombra del cerro de la Estrella, CDMX",
+    "El aparecido del Paseo de Montejo, Mérida, Yucatán",
+    "La abducción en la selva de Oaxaca"
   ],
-  "ultimo_tema": "La sombra del cerro de la Estrella, CDMX",
+  "ultimo_tema": "La abducción en la selva de Oaxaca",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-13T17:28:41.805329",
+  "ultima_publicacion_exitosa": "2026-09-13T23:22:09.220518",
   "ultimo_intento_fallido": null
 }
