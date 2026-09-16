@@ -168,10 +168,12 @@
     "El duende del callejón de la Muerte en Guanajuato",
     "La nave sobre el Palacio Municipal de Puebla",
     "El aparecido del Panteón de Dolores, CDMX",
-    "Las luces del cerro de las Navajas, Hidalgo"
+    "Las luces del cerro de las Navajas, Hidalgo",
+    "El nahual de la sierra de Guerrero",
+    "El vampiro de Taxco, Guerrero"
   ],
-  "ultimo_tema": "Las luces del cerro de las Navajas, Hidalgo",
+  "ultimo_tema": "El vampiro de Taxco, Guerrero",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-16T18:14:27.947852",
+  "ultima_publicacion_exitosa": "2026-09-16T23:46:54.191313",
   "ultimo_intento_fallido": null
 }
