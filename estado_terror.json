@@ -174,10 +174,12 @@
     "La sombra de las minas de Real del Monte, Hidalgo",
     "El aparecido del Cerro de la Cruz en Chihuahua",
     "El fantasma del Palacio de los Condes en Morelia",
-    "Las luces del Río Tula, Hidalgo"
+    "Las luces del Río Tula, Hidalgo",
+    "La mujer del espejo de la casa de Coyoacán, CDMX",
+    "El duende del jardín de Comala, Colima"
   ],
-  "ultimo_tema": "Las luces del Río Tula, Hidalgo",
+  "ultimo_tema": "El duende del jardín de Comala, Colima",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-09-17T18:17:00.343277",
+  "ultima_publicacion_exitosa": "2026-10-01T00:43:42.468045",
   "ultimo_intento_fallido": null
 }
