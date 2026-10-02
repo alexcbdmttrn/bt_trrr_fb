@@ -180,10 +180,12 @@
     "La mujer del puente de la Catedral, San Luis Potosí",
     "La casa del espanto de Querétaro",
     "El nahual de la selva de Oaxaca",
-    "Las luces del Mar de Cortés, Sonora"
+    "Las luces del Mar de Cortés, Sonora",
+    "El fantasma del Parque de las Ranas, Culiacán",
+    "La leyenda del callejón de los Sapos, Puebla"
   ],
-  "ultimo_tema": "Las luces del Mar de Cortés, Sonora",
+  "ultimo_tema": "La leyenda del callejón de los Sapos, Puebla",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-02T01:02:24.762643",
+  "ultima_publicacion_exitosa": "2026-10-02T06:17:12.612617",
   "ultimo_intento_fallido": null
 }
