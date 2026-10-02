@@ -178,10 +178,12 @@
     "La mujer del espejo de la casa de Coyoacán, CDMX",
     "El duende del jardín de Comala, Colima",
     "La mujer del puente de la Catedral, San Luis Potosí",
-    "La casa del espanto de Querétaro"
+    "La casa del espanto de Querétaro",
+    "El nahual de la selva de Oaxaca",
+    "Las luces del Mar de Cortés, Sonora"
   ],
-  "ultimo_tema": "La casa del espanto de Querétaro",
+  "ultimo_tema": "Las luces del Mar de Cortés, Sonora",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-01T06:37:55.356422",
+  "ultima_publicacion_exitosa": "2026-10-02T01:02:24.762643",
   "ultimo_intento_fallido": null
 }
