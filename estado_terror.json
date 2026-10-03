@@ -186,10 +186,12 @@
     "El fantasma del Palacio de los Virreyes en CDMX",
     "El nahual del Cerro del Chiquihuite, Tlalnepantla, Estado de México",
     "El niño que ve muertos, San Juan del Río, Querétaro",
-    "La mujer del malecón de Tampico, Tamaulipas"
+    "La mujer del malecón de Tampico, Tamaulipas",
+    "La mujer del Panteón de San Miguel, Oaxaca",
+    "El nahual de la sierra de Hidalgo"
   ],
-  "ultimo_tema": "La mujer del malecón de Tampico, Tamaulipas",
+  "ultimo_tema": "El nahual de la sierra de Hidalgo",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-03T00:39:53.858506",
+  "ultima_publicacion_exitosa": "2026-10-03T05:49:05.113166",
   "ultimo_intento_fallido": null
 }
