@@ -192,10 +192,12 @@
     "El platillo volador sobre el Cerro de la Bufa, Zacatecas",
     "El charro de la carretera a Zihuatanejo, Guerrero",
     "El aparecido del Pueblo de Ávalos, San Luis Potosí",
-    "La sombra del Cerro del Topo Chico, Monterrey"
+    "La sombra del Cerro del Topo Chico, Monterrey",
+    "La llorona de Tulum, Quintana Roo",
+    "Las luces de la sierra de Taxco, Guerrero"
   ],
-  "ultimo_tema": "La sombra del Cerro del Topo Chico, Monterrey",
+  "ultimo_tema": "Las luces de la sierra de Taxco, Guerrero",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-04T00:02:08.410413",
+  "ultima_publicacion_exitosa": "2026-10-04T06:25:41.570396",
   "ultimo_intento_fallido": null
 }
