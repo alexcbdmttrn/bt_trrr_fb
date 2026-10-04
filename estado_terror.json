@@ -194,10 +194,12 @@
     "El aparecido del Pueblo de Ávalos, San Luis Potosí",
     "La sombra del Cerro del Topo Chico, Monterrey",
     "La llorona de Tulum, Quintana Roo",
-    "Las luces de la sierra de Taxco, Guerrero"
+    "Las luces de la sierra de Taxco, Guerrero",
+    "Las luces de la sierra de San Luis Potosí",
+    "El nahual de la selva Lacandona, Chiapas"
   ],
-  "ultimo_tema": "Las luces de la sierra de Taxco, Guerrero",
+  "ultimo_tema": "El nahual de la selva Lacandona, Chiapas",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-04T06:25:41.570396",
+  "ultima_publicacion_exitosa": "2026-10-04T18:13:13.318827",
   "ultimo_intento_fallido": null
 }
