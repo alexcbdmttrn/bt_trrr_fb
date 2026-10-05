@@ -196,10 +196,12 @@
     "La llorona de Tulum, Quintana Roo",
     "Las luces de la sierra de Taxco, Guerrero",
     "Las luces de la sierra de San Luis Potosí",
-    "El nahual de la selva Lacandona, Chiapas"
+    "El nahual de la selva Lacandona, Chiapas",
+    "El duende del callejón de los Sapos, Puebla",
+    "El alux de las ruinas de El Chanal, Colima"
   ],
-  "ultimo_tema": "El nahual de la selva Lacandona, Chiapas",
+  "ultimo_tema": "El alux de las ruinas de El Chanal, Colima",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-04T18:13:13.318827",
+  "ultima_publicacion_exitosa": "2026-10-05T00:05:32.005632",
   "ultimo_intento_fallido": null
 }
