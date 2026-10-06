@@ -206,10 +206,12 @@
     "El vagón fantasma del tren a Chihuahua",
     "El aparecido del Cerro de la Estrella en CDMX",
     "El fantasma del Panteón de San Miguel en Mineral del Chico, Hidalgo",
-    "La bruja del Valle de Tlacoachistlahuaca, Guerrero"
+    "La bruja del Valle de Tlacoachistlahuaca, Guerrero",
+    "La bruja del Bosque de Chapultepec, Ciudad de México",
+    "El fantasma del Teatro Degollado, Guadalajara"
   ],
-  "ultimo_tema": "La bruja del Valle de Tlacoachistlahuaca, Guerrero",
+  "ultimo_tema": "El fantasma del Teatro Degollado, Guadalajara",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-06T06:54:15.645413",
+  "ultima_publicacion_exitosa": "2026-10-06T19:36:17.901762",
   "ultimo_intento_fallido": null
 }
