@@ -208,10 +208,12 @@
     "El fantasma del Panteón de San Miguel en Mineral del Chico, Hidalgo",
     "La bruja del Valle de Tlacoachistlahuaca, Guerrero",
     "La bruja del Bosque de Chapultepec, Ciudad de México",
-    "El fantasma del Teatro Degollado, Guadalajara"
+    "El fantasma del Teatro Degollado, Guadalajara",
+    "La casa del espanto de San Luis Potosí",
+    "El niño del Panteón de Colima"
   ],
-  "ultimo_tema": "El fantasma del Teatro Degollado, Guadalajara",
+  "ultimo_tema": "El niño del Panteón de Colima",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-06T19:36:17.901762",
+  "ultima_publicacion_exitosa": "2026-10-07T00:57:08.485322",
   "ultimo_intento_fallido": null
 }
