@@ -230,10 +230,12 @@
     "La mujer del puente de los Muertos en Querétaro",
     "La Llorona del Río San Juan, Tula, Hidalgo",
     "La mujer del puente de San Luis, San Luis Potosí",
-    "La bruja del cerro de La Cumbre, Colima"
+    "La bruja del cerro de La Cumbre, Colima",
+    "El aparecido del Puente de la Candelaria, Morelia, Michoacán",
+    "La aparición del Camino a Monte Albán, Oaxaca, Oaxaca"
   ],
-  "ultimo_tema": "La bruja del cerro de La Cumbre, Colima",
+  "ultimo_tema": "La aparición del Camino a Monte Albán, Oaxaca, Oaxaca",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-10T06:28:01.037754",
+  "ultima_publicacion_exitosa": "2026-10-10T18:38:05.491951",
   "ultimo_intento_fallido": null
 }
