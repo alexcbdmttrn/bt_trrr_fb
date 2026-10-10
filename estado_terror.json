@@ -228,10 +228,12 @@
     "La llorona del río Tijuana en Baja California",
     "El aparecido del Cerro del Vigía, Mazatlán",
     "La mujer del puente de los Muertos en Querétaro",
-    "La Llorona del Río San Juan, Tula, Hidalgo"
+    "La Llorona del Río San Juan, Tula, Hidalgo",
+    "La mujer del puente de San Luis, San Luis Potosí",
+    "La bruja del cerro de La Cumbre, Colima"
   ],
-  "ultimo_tema": "La Llorona del Río San Juan, Tula, Hidalgo",
+  "ultimo_tema": "La bruja del cerro de La Cumbre, Colima",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-10T01:08:13.566340",
+  "ultima_publicacion_exitosa": "2026-10-10T06:28:01.037754",
   "ultimo_intento_fallido": null
 }
