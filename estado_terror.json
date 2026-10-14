@@ -252,10 +252,12 @@
     "La casa del espanto de la calle del Sol en Oaxaca",
     "La llorona del río San Juan en Querétaro",
     "La abducción en la carretera a Manzanillo, Colima",
-    "El chaneque del bosque de niebla, Veracruz"
+    "El chaneque del bosque de niebla, Veracruz",
+    "La bruja del mercado de Toluca en Estado de México",
+    "El fantasma del mercado de la Merced, CDMX"
   ],
-  "ultimo_tema": "El chaneque del bosque de niebla, Veracruz",
+  "ultimo_tema": "El fantasma del mercado de la Merced, CDMX",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-14T00:32:43.590683",
+  "ultima_publicacion_exitosa": "2026-10-14T05:28:39.229180",
   "ultimo_intento_fallido": null
 }
