@@ -250,10 +250,12 @@
     "El encuentro cercano en el cerro del Volcán, Colima",
     "El espectro del Santuario de Guadalupe, Zacatecas, Zacatecas",
     "La casa del espanto de la calle del Sol en Oaxaca",
-    "La llorona del río San Juan en Querétaro"
+    "La llorona del río San Juan en Querétaro",
+    "La abducción en la carretera a Manzanillo, Colima",
+    "El chaneque del bosque de niebla, Veracruz"
   ],
-  "ultimo_tema": "La llorona del río San Juan en Querétaro",
+  "ultimo_tema": "El chaneque del bosque de niebla, Veracruz",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-10-13T20:18:46.101498",
+  "ultima_publicacion_exitosa": "2026-10-14T00:32:43.590683",
   "ultimo_intento_fallido": null
 }
