@@ -282,10 +282,12 @@
     "El fantasma del Teatro Peón Contreras, Mérida, Yucatán",
     "La llorona del lago de Pátzcuaro, Michoacán",
     "La leyenda del Cerro de la Malinche, Tlaxcala",
-    "La casa del espanto de la calle de los Muertos, Guanajuato"
+    "La casa del espanto de la calle de los Muertos, Guanajuato",
+    "La mujer del malecón de Acapulco, Guerrero",
+    "El aparecido del Cañón del Gallo, Estado de México"
   ],
-  "ultimo_tema": "La casa del espanto de la calle de los Muertos, Guanajuato",
+  "ultimo_tema": "El aparecido del Cañón del Gallo, Estado de México",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-04T07:02:56.306222",
+  "ultima_publicacion_exitosa": "2026-11-04T20:53:26.485763",
   "ultimo_intento_fallido": null
 }
