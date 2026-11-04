@@ -280,10 +280,12 @@
     "La abducción en la selva de Palenque, Chiapas",
     "El ovni sobre el Templo de Tula, Hidalgo",
     "El fantasma del Teatro Peón Contreras, Mérida, Yucatán",
-    "La llorona del lago de Pátzcuaro, Michoacán"
+    "La llorona del lago de Pátzcuaro, Michoacán",
+    "La leyenda del Cerro de la Malinche, Tlaxcala",
+    "La casa del espanto de la calle de los Muertos, Guanajuato"
   ],
-  "ultimo_tema": "La llorona del lago de Pátzcuaro, Michoacán",
+  "ultimo_tema": "La casa del espanto de la calle de los Muertos, Guanajuato",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-01T06:55:23.033455",
+  "ultima_publicacion_exitosa": "2026-11-04T07:02:56.306222",
   "ultimo_intento_fallido": null
 }
