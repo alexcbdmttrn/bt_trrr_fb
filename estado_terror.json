@@ -284,10 +284,12 @@
     "La leyenda del Cerro de la Malinche, Tlaxcala",
     "La casa del espanto de la calle de los Muertos, Guanajuato",
     "La mujer del malecón de Acapulco, Guerrero",
-    "El aparecido del Cañón del Gallo, Estado de México"
+    "El aparecido del Cañón del Gallo, Estado de México",
+    "El niño que ve muertos en el Cerro de la Estrella",
+    "La mujer del puente de la Candelaria en Querétaro"
   ],
-  "ultimo_tema": "El aparecido del Cañón del Gallo, Estado de México",
+  "ultimo_tema": "La mujer del puente de la Candelaria en Querétaro",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-04T20:53:26.485763",
+  "ultima_publicacion_exitosa": "2026-11-05T01:40:04.175053",
   "ultimo_intento_fallido": null
 }
