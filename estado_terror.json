@@ -308,10 +308,12 @@
     "El Chupacabras de la Laguna de Cayucán, Zacatecas",
     "El fantasma del Cerro de la Campana, Hermosillo",
     "La llorona del río Balsas en Guerrero",
-    "La sombra del Templo de los Sacrificios en Chichén Itzá"
+    "La sombra del Templo de los Sacrificios en Chichén Itzá",
+    "El aparecido del Palacio Nacional, CDMX",
+    "El duende del callejón del Fantasma en Guanajuato"
   ],
-  "ultimo_tema": "La sombra del Templo de los Sacrificios en Chichén Itzá",
+  "ultimo_tema": "El duende del callejón del Fantasma en Guanajuato",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-08T18:53:04.751028",
+  "ultima_publicacion_exitosa": "2026-11-09T01:09:17.363978",
   "ultimo_intento_fallido": null
 }
