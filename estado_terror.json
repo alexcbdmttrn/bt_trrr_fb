@@ -344,10 +344,12 @@
     "La abducción en el desierto de Vizcaíno, BCS",
     "El fantasma del Cerro de la Silla, Monterrey",
     "La sombra del Templo de los Guerreros en Uxmal",
-    "La leyenda del cerro del Cubilete, Guanajuato"
+    "La leyenda del cerro del Cubilete, Guanajuato",
+    "El encuentro con los grises en la sierra de Durango",
+    "El duende del callejón de la Noche en Guanajuato"
   ],
-  "ultimo_tema": "La leyenda del cerro del Cubilete, Guanajuato",
+  "ultimo_tema": "El duende del callejón de la Noche en Guanajuato",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-14T19:13:08.777419",
+  "ultima_publicacion_exitosa": "2026-11-15T01:14:46.705529",
   "ultimo_intento_fallido": null
 }
