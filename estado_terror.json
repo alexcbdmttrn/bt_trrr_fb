@@ -358,10 +358,12 @@
     "El monstruo del Cenote Siete Bocas, Valladolid, Yucatán",
     "La llorona del río de los susurros, Oaxaca",
     "El aparecido del puente de la Calzada, Puebla",
-    "La bruja voladora de Santa Fe, Ciudad de México"
+    "La bruja voladora de Santa Fe, Ciudad de México",
+    "Las luces de la sierra de Baja California Sur",
+    "La casa del espanto de Reynosa, Tamaulipas"
   ],
-  "ultimo_tema": "La bruja voladora de Santa Fe, Ciudad de México",
+  "ultimo_tema": "La casa del espanto de Reynosa, Tamaulipas",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-17T04:06:56.204016",
+  "ultima_publicacion_exitosa": "2026-11-17T08:33:17.941097",
   "ultimo_intento_fallido": null
 }
