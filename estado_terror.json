@@ -364,10 +364,12 @@
     "La llorona del río de la Amargura, Sonora",
     "El vampiro del Teatro Juárez, Guanajuato, Guanajuato",
     "El niño que vio al demonio en Tuxtla Gutiérrez, Chiapas",
-    "El aparecido del teatro Hidalgo, Colima"
+    "El aparecido del teatro Hidalgo, Colima",
+    "El fantasma del Hotel Misiones, San Cristóbal de las Casas, Chiapas",
+    "La bruja del mercado de Cuernavaca"
   ],
-  "ultimo_tema": "El aparecido del teatro Hidalgo, Colima",
+  "ultimo_tema": "La bruja del mercado de Cuernavaca",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-18T03:06:36.697004",
+  "ultima_publicacion_exitosa": "2026-11-18T08:00:15.290238",
   "ultimo_intento_fallido": null
 }
