@@ -370,10 +370,12 @@
     "El aparecido del Faro de Veracruz",
     "La sombra de las ruinas de Cobá, Quintana Roo",
     "El espectro del Puente de la Llorona, Coyoacán, Ciudad de México",
-    "La sombra del Cerro del Cuatro, Jalisco"
+    "La sombra del Cerro del Cuatro, Jalisco",
+    "El alienígena del cerro de Los Pinos, Colima",
+    "El encuentro cercano en el desierto de Altar, Sonora"
   ],
-  "ultimo_tema": "La sombra del Cerro del Cuatro, Jalisco",
+  "ultimo_tema": "El encuentro cercano en el desierto de Altar, Sonora",
   "reintentar_en_siguiente": false,
-  "ultima_publicacion_exitosa": "2026-11-19T02:45:22.299388",
+  "ultima_publicacion_exitosa": "2026-11-19T08:07:06.420470",
   "ultimo_intento_fallido": null
 }
